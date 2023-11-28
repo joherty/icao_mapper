@@ -1,4 +1,4 @@
-# Airport Route Plotter
+# Airport ICAO Route Plotter
 
 I wanted an easy way to plot an aviation route from airport to airport on an interactive webpage map.
 I'm currently using this to track an around the world tour in Microsoft Flight Simulator 2020.
