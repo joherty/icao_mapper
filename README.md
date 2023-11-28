@@ -49,7 +49,7 @@ This Python script reads airport data from a CSV file and plots a route on a map
     323361,"00AA","small_airport","Aero B Ranch Airport",38.704022,-101.473911,3435,"NA","US","US-KS","Leoti","no","00AA",,"00AA",,,
     ```
 
-- Create a text file (`current_route.txt`) containing a list of ICAO codes, with each code on a new line.
+- Create a text file (`current_route.txt`) with your route containing a list of Airport ICAO codes, with each code on a new line.
 
     Example text file:
 
