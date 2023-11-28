@@ -58,4 +58,9 @@ Run the script using the following command:
 
 ```bash
 python airport_route_plotter.py
+```
 
+### 3. Output
+
+The script will read the airport data from airports.csv and the list of ICAO codes from current_route.txt, then plot the route on a map using Folium.  
+The resulting map will be saved as route_map.html in the project directory. Open this with your browser.  
