@@ -20,7 +20,7 @@ def read_icao_codes_from_file(file_path):
 def plot_route(icao_codes, airport_data):
     # Initialize the map
     map_center = (0, 0)  # Set the initial map center
-    map_route = folium.Map(location=map_center, zoom_start=2)
+    map_route = folium.Map(location=map_center, zoom_start=3)
 
     # Plot the route waypoints
     for icao_code in icao_codes:
