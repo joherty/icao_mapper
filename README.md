@@ -31,7 +31,9 @@ This Python script reads airport data from a CSV file and plots a route on a map
 
 ### 1. Prepare Data
 
-- Create a CSV file (`airports.csv`) containing airport data. The CSV file should have the following columns: `ident`, `latitude_deg`, and `longitude_deg`.
+- Use the included (`airports.csv`) containing airport data. The CSV file should have the following columns: `ident`, `latitude_deg`, and `longitude_deg`.  
+
+- Updated file available at https://ourairports.com/data/
 
     Example CSV format:
 
