@@ -6,6 +6,8 @@ Feel free to use or modify this script.
 
 This Python script reads airport data from a CSV file and plots a route on a map using the Folium library. The route is specified by a list of ICAO codes provided in a text file.
 
+
+Screenshot:  
 ![my_route](sample.png)
 
 ## Prerequisites
